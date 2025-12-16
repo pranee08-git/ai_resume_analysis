@@ -99,7 +99,7 @@ npm run preview
 
 ---
 
-## ⚠️ Limitations
+## ⚠️ Limitations 
 
 * Supports PDF resumes only
 * Uses rule-based logic instead of machine learning models
